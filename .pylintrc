@@ -8,6 +8,7 @@ disable=
       C0209, # Consider-using-f-string
       E0015, # unrecognized-option
       C0321, # multiple-statements
+      W0719, # broad-exception-raised
 
 # A comma-separated list of package or module names from where C extensions may
 # be loaded. Extensions are loading into the active Python interpreter and may
