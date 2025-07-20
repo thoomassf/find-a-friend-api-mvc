@@ -1,5 +1,4 @@
 ./mypy_cache
 venv
-storage.db
 **/__pycache__
 .pytest_cache
